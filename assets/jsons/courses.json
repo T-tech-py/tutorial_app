@@ -1,0 +1,113 @@
+
+  {
+    "name": "Introduction To Educational Software",
+    "code": "EDT 215",
+    "lesson": [
+      {
+        "title": "Educational Software (PROBLEM SOLVING)",
+        "video": "https://github.com/T-tech-py/test/raw/main/edt215%20(1).mp4",
+        "time": "1 Min 58 Sec"
+      },
+      {
+        "title": "Educational Software (SIMULATION)",
+        "video": "https://github.com/T-tech-py/test/raw/main/WhatsApp%20Video%202024-03-17%20at%2013.30.33%20(1)%20(1).mp4",
+        "time": "2 Min"
+      }
+    ],
+    "tutor": {
+      "name": "ADELEYE JEREMIAH ADEDAMOLA",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFMqXVHgdPUgg/profile-displayphoto-shrink_800_800/0/1673887262596?e=2147483647&v=beta&t=KvVXn__ctrM0eZzyZo3Kej8zmFtnY1iiRF9zIUpfJR8"
+    },
+    "test": [
+      {
+        "question": "-------- is a type of game that uses gameplay to teach students in a fun and interactive way. ",
+        "options":[
+          {
+            "key": "Educational Software"
+          },
+          {
+            "key": "Computer Software"
+          },
+          {
+            "key": "Instructional games"
+          }
+        ],
+        "correctAnswer": "Instructional games"
+      },
+      {
+        "question": "------, ------- and ------- are examples of instructional games",
+        "options":[
+          {
+            "key": "Skipping, jumping and running"
+          } ,
+          {
+            "key": "Puzzles, Scrabble and Word Cross"
+          },
+          {
+            "key": "Temple run, Candy Crush and Subway surf"
+          }
+        ],
+        "correctAnswer": "Puzzles, Scrabble and Word Cross"
+      }
+     , {
+        "question": "instructional games are limited to a particular subject?\n",
+        "options":[
+          {
+            "key": "True"
+          },
+          {
+            "key": "False"
+          },
+          {
+            "key": "Maybe"
+          }
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "question": "____ is one of the advantages of Instructional games.\n",
+        "options":[
+          {
+            "key": "Time consuming"
+          },
+          {
+            "key": "Foster critical thinking"
+          },
+          {
+            "key": "Lack of resources."
+          }
+        ],
+        "correctAnswer": "Foster critical thinking"
+      }
+      ,
+      {
+        "question": "Different types of instructional games exist with varying component such as________and________",
+        "options":[
+          {
+            "key": "Goals and rules"
+          },
+          {
+            "key": "Feedback and progress"
+          },
+          {
+            "key": "Logical and critical"
+          }
+        ],
+        "correctAnswer": "Goals and rules"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "5Star boy",
+        "comment":"This is the best tutorial app out there."
+      },
+      {
+        "name": "King Promise",
+        "comment":"This app has really helped me academically"
+      },
+      {
+        "name": "Akintola Oluwatobi",
+        "comment":"Really happy to have a app like this"
+      }
+    ]
+  }
