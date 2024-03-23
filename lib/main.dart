@@ -40,7 +40,8 @@ class MyApp extends StatelessWidget {
   child: MaterialApp(
       title: 'Flutter Demo',
       navigatorKey: SingletonService().key,
-      theme: isDarkMode? darkTheme: lightTheme,
+      debugShowCheckedModeBanner: false,
+      theme: lightTheme,
       home: const WelcomePage(title: 'Flutter Home Page'),
     ),
 );
@@ -98,7 +99,11 @@ class _WelcomePageState extends State<WelcomePage> {
                       children: [
                         Expanded(child: AppButton(text: "Skip",
                             addBorder: true,
-                            onTap: (){})),
+                            onTap: (){
+                              pushToNextScreen(
+                                  child: const InfoPage(),
+                                  name: InfoPage.routeName);
+                            })),
                         50.width,
                         Expanded(child: AppButton(text: "Next", onTap: (){
                           pushToNextScreen(
