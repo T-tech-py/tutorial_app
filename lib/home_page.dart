@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
               const AuthTextField(
                 hintText: 'Search your course',
                 prefixIcon: Icon(Icons.search_sharp),
+                enable: false,
               ),
               23.height,
               const Text(

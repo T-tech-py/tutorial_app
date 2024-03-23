@@ -52,6 +52,7 @@ class _InfoPageState extends State<InfoPage> {
               40.height,
               AuthTextField(
                 heading: "Firstname",
+                hintText: "type your name here.....",
                 onChanged: (val) {
                   setState(() {
                     firstname = val;
@@ -67,6 +68,7 @@ class _InfoPageState extends State<InfoPage> {
               20.height,
               AuthTextField(
                 heading: "Surname",
+                hintText: "type your surname here.....",
                 onChanged: (val) {
                   setState(() {
                     surname = val;
